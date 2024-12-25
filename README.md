@@ -20,11 +20,16 @@ The dataset used for the analysis is a part of the [Data Analytics Essentials](
 
 ### Exploratory Data Analysis using Python
 
-The dataset was analyzed to understand its structure, including its size, data types, and summary statistics. Missing values were identified and treated using approriate treatment methods. 
+The dataset was analyzed to understand its structure, different data types, and statistical summary. Missing values were identified and treated using approriate methods. 
 
 **Univariate Analysis**: Examined individual variables and their distributions
+
 **Bivariate/Multivariate Analysis**: Explored relationships between variables
-**Data Visualization**: Used Seaborn and Matplotlib to create clear and insightful visualizations
-**Conclusion & Recommendations**: Provided recommendations to improve the company's business by identifying the KPIs and enhance the customer experience. 
+
+**Data Visualization**: Used Python libraries like Seaborn and Matplotlib to create clear and insightful visualizations
+
+**Conclusion & Recommendations**: Provided recommendations to improve the company's business about the demand of different restaurants and cuisines, to help them enhance their customer experience and improve the business
+
+All the project deliverables including the data set, data dictionary and analysis files (ipynb, html) have been uploaded under the project files folder. 
 
 
