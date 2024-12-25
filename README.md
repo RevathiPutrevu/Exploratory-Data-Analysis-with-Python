@@ -30,6 +30,8 @@ The dataset was analyzed to understand its structure, different data types, and 
 
 **Conclusion & Recommendations**: Provided recommendations to improve the company's business about the demand of different restaurants and cuisines, to help them enhance their customer experience and improve the business
 
-All the project deliverables including the data set, data dictionary and analysis files (ipynb, html) have been uploaded under the project files folder. 
+All the project deliverables including the data set, data dictionary and analysis files (ipynb, html) have been uploaded under the Project files folder. 
+
+**Note**: This project has been done as a Capstone project as a part of the online certification course offered by Texas McCombs School of Business in collaboration with Great Learning.
 
 
